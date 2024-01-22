@@ -1,0 +1,35 @@
+h1 {
+    font-family: 'Rubik Doodle Shadow', system-ui;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 10px;
+    }
+a {
+    font-family: 'Rubik Doodle Shadow', system-ui;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 15;
+   }
+   h2 {
+    font-family: 'Rubik Doodle Shadow', system-ui;
+    font-size: 38px;
+    color: black;
+    text-align: center;
+      }
+      .centrar {
+        text-align: center;
+      }   
+section {
+  border-radius: 1px;
+  text-align: center;
+  }
+  .h4 {
+    text-align: center;
+  }
+.boton-img {
+  text-align: left;
+  font-size: small;
+  float: inline-start;
+}
